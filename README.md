@@ -13,3 +13,15 @@ Philippians 4:13
 
 John 11:25-26
 "I am the resurrection and the life. Anyone who believes in me will live, even after dying. Everyone who lives in me and believes in me will never ever die"
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Praise the Lord</h1>
+<p>My saviour, my friend - all that I want is Jesus.</p>
+
+</body>
+</html>
+
+
